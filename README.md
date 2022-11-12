@@ -2,15 +2,29 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/201475272-254cea7c-4f7b-4a22-861b-13015625ef1f.jpg" height=500 width=250>
+<img src="https://user-images.githubusercontent.com/111565916/201475300-e0267d20-6b7b-494a-abcb-7487ee3ce95b.jpg" height=500 width=250>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Anonymus(Guest user) Log in
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/201475418-49248f6b-93a9-4223-b8fa-02c454633e7c.gif" height=500 width=250>
+</p>
+
+## Sign up and Sign in
+
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/201475439-e8612e9e-4f14-4bbc-afae-c416e7f2e8f9.gif" height=500 width=250>
+</p>
+
+
+## Signing with google
+
+<p align=center>
+<img src="https://user-images.githubusercontent.com/111565916/201475446-a0fa3769-9df5-4959-bc5f-48b72b727c76.gif" height=500 width=250>
+</p>
+
